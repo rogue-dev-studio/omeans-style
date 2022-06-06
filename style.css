@@ -1,3 +1,9 @@
 .bg-omeans-dark{
 background-color:#333 !important;
 }
+.c-white{
+color: white !important;
+}
+.c-white a{
+color:white !important;
+}
